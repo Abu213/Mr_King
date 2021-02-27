@@ -37,18 +37,13 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
- _     _          ___         _
- | \   / |       |  __ \     | |
- | \   / |_ __   | |  | |    | |
- | |\ /| | '_|   | |  | |    | |
- | |   | | |     | |__| | |__| |
- |_|   |_|_|     |_____/  \___/
- 
+ 𝐌𝐫_𝐊𝐢𝐧𝐠
+𝐆𝐚𝐦𝐞_𝐈𝐝𝐬_𝐂𝐥𝐨𝐧𝐢𝐧𝐠_𝐅𝐚𝐬𝐭
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mDJ
 \033[1;96mYouTube \033[1;93m: \033[1;92mAnonymous Trickers
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/FAKHAR143/Mr_DJ
-\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/Anonymoustricker1
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/Abu213/Mr_King
+\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/pakhunter004
 \033[1;91m======================================="""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -67,13 +62,13 @@ os.system("clear")
 print "\033[1;96m ========================================="
 print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mDJ
-\033[1;96mYouTube \033[1;93m: \033[1;92mAnonymous Trickers
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/FAKHAR143/Mr_DJ
-\033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/Anonymoustricker1
+\033[1;96mYouTube \033[1;93m: \033[1;92mPak Trickers
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/Abu213/Mr_King
+\033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/pakhunter004
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
-CorrectUsername = "DJDJDJ"
-CorrectPassword = "DJDJDJ"
+CorrectUsername = "King"
+CorrectPassword = "King"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
